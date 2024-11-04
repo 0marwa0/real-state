@@ -1,0 +1,16 @@
+.img-container {
+  height: 700px;
+}
+.img-container img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.hero {
+  padding: 0 3%;
+}
+.down-arrow {
+  border-radius: 50%;
+  padding: 10px;
+  background-color: transparent;
+}

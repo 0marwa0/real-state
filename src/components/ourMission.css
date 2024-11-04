@@ -1,0 +1,17 @@
+.mission-text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+}
+.mission-section {
+  padding: 3%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mission-section article {
+  margin-bottom: 40px;
+  width: 80%;
+}
